@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ruby 🛑**
 
-- 💬 Ask me about **everything !🤷‍♂️**
+- 💬 Ask me about **everything ! 🤷‍♂️**
 
 - 📫 How to reach me **benjamin.charmes@gmail.com**
 

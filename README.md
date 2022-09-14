@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Charmes</h1>
 <h3 align="center">Former Chemist and Teacher 👨‍🔬 Retraining as a developer 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamincharmes&label=Profile%20views&color=0e75b6&style=flat" alt="benjamincharmes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamincharmes" alt="benjamincharmes" /></a> </p>
-
 - 🔭 I’m currently training with **The Hacking Project**
 
 - 🌱 I’m currently learning **ruby 🛑**

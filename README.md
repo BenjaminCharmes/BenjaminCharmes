@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ruby 🛑**
 
-- 💬 Ask me about **everything ! 🤷‍♂️**
+- 💬 Ask me about **anything ! 🤷‍♂️**
 
-- 📫 How to reach me **benjamin.charmes@gmail.com**
+- 📫 How to reach me -> **benjamin.charmes@gmail.com**
 
 - ⚡ Fun fact **Passionate about science, new technologies and blockchain.**
 

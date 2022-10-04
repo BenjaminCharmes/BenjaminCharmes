@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Passionate about science, new technologies and blockchain.**
 
-- 🚧 W.I.P. -> [a link](https://benjamincharmes.github.io)
+- 🚧 W.I.P. [Benjamin Charmes - Portfolio](https://benjamincharmes.github.io)
 
 
 <h3 align="left">Connect with me:</h3>

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me -> **benjamin.charmes@gmail.com**
 
-- ⚡ Fun fact **Passionate about science, new technologies and blockchain.**
+- ⚡ Fun fact **Passionate about science and new technologies.**
 
 - 🚧 W.I.P. [Benjamin Charmes - Portfolio](https://benjamincharmes.github.io)
 

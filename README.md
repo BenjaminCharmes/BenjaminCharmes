@@ -1,4 +1,4 @@
-<p><h1 align="center">Hi 👋, I'm Benjamin Charmes</h1><a align="right"> <img src="https://komarev.com/ghpvc/?username=benjamincharmes&label=Profile%20views&color=0e75b6&style=flat" alt="benjamincharmes" /> </a></p>
+<h1 align="center">Hi 👋, I'm Benjamin Charmes</h1>
 <h3 align="center">Former Chemist and Teacher 👨‍🔬 Retraining as a developer 👨‍💻</h3>
 
 - 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org)

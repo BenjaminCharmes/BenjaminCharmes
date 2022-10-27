@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org)
 
-- 🌱 I’m currently learning **ruby 🛑**
+- 🌱 I’m currently learning **Ruby on Rails 🛑**
 
 - 💬 Ask me about **anything ! 🤷‍♂️**
 

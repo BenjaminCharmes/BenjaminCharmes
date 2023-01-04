@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/benjamin-charmes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-charmes" height="30" width="40" /></a>
 <a href="https://discord.gg/Benjamin_Charmes#3190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Benjamin_Charmes#3190" height="30" width="40" /></a>
 </p>
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">Programming Languages:</h5>
 <p align="left">

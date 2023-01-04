@@ -61,15 +61,3 @@
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=benjamincharmes&label=Profile%20views&color=0e75b6&style=flat" alt="benjamincharmes" /> </p>
-
-.column {
-  float: left;
-  width: 33.33%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}

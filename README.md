@@ -23,7 +23,7 @@
 <a href="https://discord.gg/Benjamin_Charmes#3190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Benjamin_Charmes#3190" width="50" height="50"/></a>
 </p>
 <p align="center">
-<a href="https://www.codewars.com/users/BenjaminCharmes" target="blank"><img align="center" src="[https://www.codewars.com/packs/assets/logo.61192cf7.svg](https://www.codewars.com/users/BenjaminCharmes/badges/large)" alt="Benjamin_Charmes_codewars"/></a>
+<a href="https://www.codewars.com/users/BenjaminCharmes" target="blank"><img align="center" src="https://www.codewars.com/users/BenjaminCharmes/badges/large" alt="Benjamin_Charmes_codewars"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

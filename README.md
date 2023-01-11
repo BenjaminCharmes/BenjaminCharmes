@@ -17,8 +17,11 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/benjamincharmes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benjamincharmes" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/benjamin-charmes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-charmes" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/Benjamin_Charmes#3190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Benjamin_Charmes#3190" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/BenjaminCharmes" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="LinaHello_codewars" width="50" height="50"/></a>
 </p>
 

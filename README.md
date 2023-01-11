@@ -13,6 +13,7 @@
 
 - 🚧 W.I.P. [Benjamin Charmes - Portfolio](https://benjamincharmes.github.io)
 
+<img src="https://www.codewars.com/users/BenjaminCharmes/badges/large"/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

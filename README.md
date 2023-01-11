@@ -50,7 +50,7 @@
 
 <h5 align="left">Framework:</h5>
 <p align="center">
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails" width="40" height="40"/> </a>
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/> </a>
 </p>
 <h5 align="left">Tools:</h5>
 <p align="center">

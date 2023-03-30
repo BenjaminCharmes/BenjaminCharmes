@@ -26,14 +26,12 @@
 <a href="https://www.codewars.com/users/BenjaminCharmes" target="blank"><img align="center" src="https://www.codewars.com/users/BenjaminCharmes/badges/large" alt="CodeWars Benjamin Charmes"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Programming Languages:</h5>
+<h3 align="left">Toolkits:</h3>
   <p align="center">
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> </a>
    &nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
   </p>
-<h5 align="left">Frontend Development:</h5>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
     &nbsp;&nbsp;&nbsp;
@@ -45,17 +43,14 @@
     &nbsp;&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> </a>
   </p>
-<h5 align="left">Database:</h5>
   <p align="center">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
     &nbsp;&nbsp;&nbsp;
   </p>
 
-<h5 align="left">Framework:</h5>
 <p align="center">
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/> </a>
 </p>
-<h5 align="left">Tools:</h5>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
 </p>

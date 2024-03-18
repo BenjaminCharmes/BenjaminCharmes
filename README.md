@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benjamin Charmes</h1>
 <h3 align="center">Former chemist and teacher 👨‍🔬 Now working as a developer 👨‍💻</h3>
 
-- 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org)
+- 🔭 I’m currently working for [The Grey Group](https://www.ch.cam.ac.uk/group/grey/index)
 
-- 🌱 I’m currently learning **Javascript & React.js ⭐️**
+- 🌱 I’m currently working with **Python 🐍 & Vue.JS ⭐️**
 
 - 💬 Ask me about **anything ! 🤷‍♂️**
 

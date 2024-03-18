@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Charmes</h1>
-<h3 align="center">Former Chemist and Teacher 👨‍🔬 Retraining as a developer 👨‍💻</h3>
+<h3 align="center">Former chemist and teacher 👨‍🔬 Now working as a developer 👨‍💻</h3>
 
 - 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org)
 

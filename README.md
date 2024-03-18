@@ -28,9 +28,11 @@
 
 <h3 align="left">Toolkits:</h3>
   <p align="center">
-    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> </a>
-   &nbsp;&nbsp;&nbsp;
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a>
+       &nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
+       &nbsp;&nbsp;&nbsp;
+    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> </a>
   </p>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>

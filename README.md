@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Charmes</h1>
 <h3 align="center">Former chemist and teacher 👨‍🔬 Now working as a developer 👨‍💻</h3>
 
-- 🔭 I’m currently working for [The Grey Group](https://www.ch.cam.ac.uk/group/grey/index)
+- 🔭 I’m currently working for [The Grey Group](https://www.ch.cam.ac.uk/group/grey/index) and [Datalab industries](https://github.com/datalab-org) (self employed)
 
 - 🌱 I’m currently working with **Python 🐍 & Vue.JS ⭐️**
 

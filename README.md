@@ -1,67 +1,75 @@
-<h1 align="center">Hi 👋, I'm Benjamin Charmes</h1>
-<h3 align="center">Former chemist and teacher 👨‍🔬 Now working as a developer 👨‍💻</h3>
-
-- 🔭 I’m currently working for [The Grey Group](https://www.ch.cam.ac.uk/group/grey/index) and [Datalab industries](https://github.com/datalab-org) (self employed)
-
-- 🌱 I’m currently working with **Python 🐍 & Vue.JS ⭐️**
-
-- 💬 Ask me about **anything ! 🤷‍♂️**
-
-- 📫 How to reach me -> **benjamin.charmes@gmail.com**
-
-- ⚡ Fun fact **Passionate about science and new technologies.**
-
-- 🚧 W.I.P. [Benjamin Charmes - Portfolio](https://benjamincharmes.github.io)
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/benjamincharmes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Benjamin Charmes" width="50" height="50"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/benjamin-charmes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Benjamin Charmes" width="50" height="50"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/Benjamin_Charmes#3190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Benjamin_Charmes#3190" width="50" height="50"/></a>
-</p>
-<p align="center">
-<a href="https://www.codewars.com/users/BenjaminCharmes" target="blank"><img align="center" src="https://www.codewars.com/users/BenjaminCharmes/badges/large" alt="CodeWars Benjamin Charmes"/></a>
-</p>
-
-<h3 align="left">Toolkits:</h3>
-  <p align="center">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/></a>
-  </p>
-  
-  <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
-   &nbsp;&nbsp;&nbsp;
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue.js"/></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>
-  </p>
-  
-  <p align="center">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/></a>
-  </p>
+<h1 align="center">Benjamin Charmes</h1>
 
 <p align="center">
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/></a>
-</p>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Former+Chemist+%26+Teacher+%F0%9F%94%AC;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=benjamincharmes&label=Profile%20views&color=0e75b6&style=flat" alt="benjamincharmes" /> </p>
+<p align="center">
+  <a href="https://benjamincharmes.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-benjamincharmes.vercel.app-4FC08D?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/benjamin-charmes">
+    <img src="https://img.shields.io/badge/LinkedIn-benjamin--charmes-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:benjamin.charmes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-benjamin.charmes%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+Fullstack developer based in **Marseille**, with a background in Chemistry (Master's, Aix-Marseille University). After a few years teaching Physics & Chemistry, I transitioned into software development — and never looked back.
+
+I currently work as a **Fullstack Consultant at [Abylsen](https://www.abylsen.com/)** and contribute as a freelance developer to **[Datalab](https://github.com/datalab-org)**, an open-source data management platform for chemistry research labs built with the University of Cambridge. I care about clean code, good UX, and making scientific tools actually usable.
+
+---
+
+## 🛠 Stack
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & Database**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🔬 Featured — Datalab
+
+> An open-source platform for managing, sharing and analysing research data in chemistry labs — built with the [Grey Group](https://www.ch.cam.ac.uk/group/grey/index) at the **University of Cambridge**.
+
+[![datalab-org/datalab](https://img.shields.io/badge/GitHub-datalab--org%2Fdatalab-181717?style=flat-square&logo=github)](https://github.com/datalab-org/datalab)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=BenjaminCharmes&show_icons=true&hide_border=true&count_private=true&theme=default&icon_color=4FC08D&title_color=4FC08D" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCharmes&layout=compact&hide_border=true&theme=default&title_color=4FC08D" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BenjaminCharmes&hide_border=true&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D" />
+</p>

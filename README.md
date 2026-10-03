@@ -2,25 +2,25 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4FC08D&center=true&vCenter=true&width=620&lines=Fullstack+Developer;Building+Tessera+%E2%80%94+an+IDE+where+AI+agents+ship+code;Open+source+contributor+%40+Datalab;Former+Chemist+%26+Teacher+%F0%9F%94%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4FC08D&center=true&vCenter=true&width=620&lines=Fullstack+Developer;Building+Tessera+%E2%80%94+an+IDE+where+AI+agents+ship+code;Open+source+contributor+%40+Datalab;Former+Chemist+%26+Teacher+%F0%9F%94%AC" alt="Fullstack Developer" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://benjamincharmes.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-benjamincharmes.vercel.app-4FC08D?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-benjamincharmes.vercel.app-4FC08D?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/benjamin-charmes">
-    <img src="https://img.shields.io/badge/LinkedIn-benjamin--charmes-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-benjamin--charmes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:benjamin.charmes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-benjamin.charmes%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-benjamin.charmes%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://benjamincharmes.vercel.app/Resume_Benjamin_Charmes.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-4FC08D?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-PDF-4FC08D?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"/>
   </a>
 </p>
 
@@ -77,10 +77,19 @@ Based in **Marseille**, chemist turned developer — Master's in Chemistry from 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=BenjaminCharmes&show_icons=true&hide_border=true&count_private=true&theme=default&icon_color=4FC08D&title_color=4FC08D" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCharmes&layout=compact&hide_border=true&theme=default&title_color=4FC08D" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BenjaminCharmes&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=4FC08D&title_color=4FC08D">
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=BenjaminCharmes&show_icons=true&hide_border=true&count_private=true&icon_color=4FC08D&title_color=4FC08D" alt="GitHub stats for BenjaminCharmes" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCharmes&layout=compact&hide_border=true&theme=dark&title_color=4FC08D">
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCharmes&layout=compact&hide_border=true&title_color=4FC08D" alt="Top languages for BenjaminCharmes" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BenjaminCharmes&hide_border=true&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BenjaminCharmes&hide_border=true&theme=dark&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D">
+    <img src="https://streak-stats.demolab.com?user=BenjaminCharmes&hide_border=true&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D" alt="GitHub streak stats for BenjaminCharmes" />
+  </picture>
 </p>

@@ -1,0 +1,80 @@
+name: Update stats cards
+
+# Les cartes sont générées ici et servies depuis le dépôt : le README ne
+# dépend plus d'une instance publique qui peut être limitée ou tomber.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&icon_color=4FC08D&title_color=4FC08D
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=github_dark&icon_color=4FC08D&title_color=4FC08D
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=4FC08D
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=github_dark&title_color=4FC08D
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # La carte streak n'a pas d'action : on la télécharge, et on ne remplace
+      # la version du dépôt que si la réponse est bien un SVG. Une panne du
+      # service garde la carte de la veille au lieu d'une image cassée.
+      - name: Streak (light and dark)
+        run: |
+          base="https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D"
+          fetch() {
+            if curl -fsSL --max-time 60 "$1" -o "$2.tmp" && grep -q "<svg" "$2.tmp"; then
+              mv "$2.tmp" "$2"
+            else
+              echo "::warning::streak card unavailable, keeping the previous $2"
+              rm -f "$2.tmp"
+            fi
+          }
+          mkdir -p profile
+          fetch "$base" profile/streak-light.svg
+          fetch "$base&theme=dark&background=0D1117" profile/streak-dark.svg
+
+      - name: Commit the cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update stats cards"
+          git push

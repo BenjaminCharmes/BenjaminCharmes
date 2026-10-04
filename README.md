@@ -78,18 +78,18 @@ Based in **Marseille**, chemist turned developer — Master's in Chemistry from 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BenjaminCharmes&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=4FC08D&title_color=4FC08D">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=BenjaminCharmes&show_icons=true&hide_border=true&count_private=true&icon_color=4FC08D&title_color=4FC08D" alt="GitHub stats for BenjaminCharmes" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
+    <img height="155" src="profile/stats-light.svg" alt="GitHub stats for BenjaminCharmes" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCharmes&layout=compact&hide_border=true&theme=dark&title_color=4FC08D">
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminCharmes&layout=compact&hide_border=true&title_color=4FC08D" alt="Top languages for BenjaminCharmes" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg">
+    <img height="155" src="profile/top-langs-light.svg" alt="Top languages for BenjaminCharmes" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BenjaminCharmes&hide_border=true&theme=dark&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D">
-    <img src="https://streak-stats.demolab.com?user=BenjaminCharmes&hide_border=true&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D" alt="GitHub streak stats for BenjaminCharmes" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile/streak-dark.svg">
+    <img src="profile/streak-light.svg" alt="GitHub streak stats for BenjaminCharmes" />
   </picture>
 </p>

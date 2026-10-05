@@ -32,9 +32,18 @@ Based in **Marseille**, chemist turned developer — Master's in Chemistry from 
 
 ## 🚀 Projects
 
+### Personal
+
 | Project | Description |
 |---|---|
 | **[Tessera](https://github.com/BenjaminCharmes/tessera)** | Self-hosted multi-project IDE with AI agent orchestration — agents write and ship code on real branches |
+
+### Freelance — open source
+
+Open-source projects I contribute to as a freelance developer for [Datalab Industries](https://github.com/datalab-org).
+
+| Project | Description |
+|---|---|
 | **[Datalab](https://github.com/datalab-org/datalab)** | Open-source platform for managing, sharing and analysing research data in chemistry labs — University of Cambridge |
 | **[datalab-app-plugin-insitu](https://github.com/datalab-org/datalab-app-plugin-insitu)** | In-situ NMR analysis plugin for Datalab |
 

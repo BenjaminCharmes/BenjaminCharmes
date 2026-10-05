@@ -40,7 +40,7 @@ Based in **Marseille**, chemist turned developer — Master's in Chemistry from 
 
 ### Freelance — open source
 
-Open-source projects I contribute to as a freelance developer for [Datalab Industries](https://github.com/datalab-org).
+Open-source projects I contribute to as a freelance developer for [Datalab Industries](https://github.com/datalab-industries).
 
 | Project | Description |
 |---|---|

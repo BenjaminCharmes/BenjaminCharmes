@@ -26,7 +26,7 @@
 
 ---
 
-Based in **Marseille**, chemist turned developer — Master's in Chemistry from Aix-Marseille University, a few years teaching Physics & Chemistry, then software full-time. I currently work as a Fullstack Consultant at [Abylsen](https://www.abylsen.com/) and contribute as a freelance developer to [Datalab](https://github.com/datalab-org), an open-source data management platform built with the University of Cambridge. I build tools with and for AI agents.
+Based in **Marseille**, chemist turned developer — Master's in Chemistry from Aix-Marseille University, a few years teaching Physics & Chemistry, then software full-time. I currently work as a Fullstack Consultant at [Abylsen](https://www.abylsen.com/) and contribute as a freelance developer to [Datalab](https://github.com/datalab-org), an open-source data management platform built with the University of Cambridge.
 
 ---
 

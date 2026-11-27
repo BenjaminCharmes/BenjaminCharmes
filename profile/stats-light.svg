@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Benjamin Charmes&#39; GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 1536, Total PRs: 1513, Total Issues: 19, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 1536, Total PRs: 1517, Total Issues: 19, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.47886094748269;
+        stroke-dashoffset: 108.4788609448467;
       }
     }
   
